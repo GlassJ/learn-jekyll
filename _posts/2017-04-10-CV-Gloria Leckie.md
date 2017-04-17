@@ -3,6 +3,8 @@ layout: post
 title:  "CV - Gloria Leckie"
 date:   2017-04-10 19:09:48 +0100
 tags: 
+    - start
+    - jekyll
     - CV
     
 ---
